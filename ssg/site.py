@@ -16,7 +16,7 @@ class Site:
             if path.is_dir():
                 self.create_dir(path)
 
-print("1,2,3,4")
+
 
 
 
